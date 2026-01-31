@@ -2,7 +2,7 @@
 A White Paper on AI Ethical Alignment and Governance for Super-Intelligent Systems.
 # AI Constitution White Paper
 **Subtitle:** Ethics, Law, and Existential Safety  
-**Author:** AI Guardian Institute  
+**Author:** Anting Anting Society
 **Version:** Draft v1.0  
 **Date:** February 2026
 
