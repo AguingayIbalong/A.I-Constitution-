@@ -67,7 +67,7 @@ You can read the full AI Constitution here:
 
 # AI Constitution White Paper  
 **Subtitle:** Ethics, Law, and Existential Safety  
-**Author:** AI Guardian Institute  
+**Author:** Anting Anting Society
 **Version:** Draft v1.0  
 **Date:** February 2026  
 
